@@ -26,6 +26,14 @@ body {
   background-color: #141518;
 }
 
+header {
+  padding-top: 4rem;
+  background-image: url(img/suit.jpg), url(img/bg.jpg);
+  background-position: center, center;
+  background-repeat: no-repeat, repeat-x;
+  height: 360px;
+}
+
 .product__image {
   width: 6rem;
   height: auto;
