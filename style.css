@@ -54,3 +54,17 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.product__colors {
+  display: flex;
+}
+button {
+  border-radius: 15px;
+  background-color: #141518;
+  color: white;
+  border: solid 1px white;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
